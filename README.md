@@ -4,7 +4,7 @@
 
 Welcome to the "Awesome #52WeeksOfAI Challenge - @aminblm" repository! This is a collection of Amin's ventures for the [#52WeeksOfAI](https://transcendai.substack.com/p/52-weeks-of-ai-challenge-building) Challenge.
 
-> Fork this repository and make it your name to show the world your ventures
+> [Fork this repository and make it your name to show the world your ventures](https://github.com/aminblm/awesome-52WeeksOfAI-aminblm)
 
 The [#52WeeksOfAI]([https://chat.openai.com/chat](https://transcendai.substack.com/p/52-weeks-of-ai-challenge-building)) Challenge is a challenge launched by [TranscendAI](https://transcendai.substack.com/) that has for goal to help streamline productpreneurs to launch their AI ventures. By providing them with the adequate support, it helps the participants in the challenge scale their ventures and achieve faster their results.
 
