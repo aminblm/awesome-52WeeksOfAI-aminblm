@@ -4,6 +4,9 @@
 
 TL;DR: 52 * $$$ * 😴
 
+![_AI Ventures  Community  Workshops  Spaces  Podcasts  Masterclasses  Conferences](https://github.com/aminblm/awesome-52WeeksOfAI-aminblm/assets/25132838/986a9944-e3ac-4e85-bbfb-b18c76851c8a)
+
+
 Welcome to the "Awesome #52WeeksOfAI Challenge - @aminblm" repository! This is a collection of Amin's ventures for the [#52WeeksOfAI](https://transcendai.substack.com/p/52-weeks-of-ai-challenge-building) Challenge.
 
 > [Fork this repository and make it your name to show the world your ventures](https://github.com/aminblm/awesome-52WeeksOfAI-aminblm)
